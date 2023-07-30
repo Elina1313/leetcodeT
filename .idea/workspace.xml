@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7e3a14bd-856c-4d6c-95a8-1385f1492b64" name="Changes" comment="feat: two sums">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/twoSums/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/twoSums/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/twoSums/TwoSums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/twoSums/TwoSums.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690712488488</updated>
       <workItem from="1690712489639" duration="703000" />
-      <workItem from="1690713547921" duration="3241000" />
+      <workItem from="1690713547921" duration="4244000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1690712773346</created>
@@ -139,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690714417578</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: two sums">
+      <created>1690717111566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690717111566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
