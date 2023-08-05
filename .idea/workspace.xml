@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3a14bd-856c-4d6c-95a8-1385f1492b64" name="Changes" comment="feat: Longest Substring Without Repeating Characters">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/addTwoNumbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/addTwoNumbers/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/longestSubstringWithoutRepeatingCharacters/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/longestSubstringWithoutRepeatingCharacters/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/twoSums/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/twoSums/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/twoSums/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/twoSums/Solution1.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e3a14bd-856c-4d6c-95a8-1385f1492b64" name="Changes" comment="feat: find Median Sorted Arrays" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,9 +73,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.42886388",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -169,7 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690712488488</updated>
       <workItem from="1690712489639" duration="703000" />
-      <workItem from="1690713547921" duration="7189000" />
+      <workItem from="1690713547921" duration="7964000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1690712773346</created>
@@ -213,7 +207,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690719530283</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: find Median Sorted Arrays">
+      <created>1691233656734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691233656734</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: find Median Sorted Arrays">
+      <created>1691233803754</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691233803754</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +243,7 @@
     <MESSAGE value="feat: two sums" />
     <MESSAGE value="feat: two numbers v_medium" />
     <MESSAGE value="feat: Longest Substring Without Repeating Characters" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Longest Substring Without Repeating Characters" />
+    <MESSAGE value="feat: find Median Sorted Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: find Median Sorted Arrays" />
   </component>
 </project>
