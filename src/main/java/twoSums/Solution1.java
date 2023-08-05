@@ -11,8 +11,7 @@ public class Solution1 {
             if (map.containsKey(nums[i])) {
                 result[0] = i;
                 result[1] = map.get(nums[i]);
-            }
-            else {
+            } else {
                 map.put(target - nums[i], i);
             }
         }

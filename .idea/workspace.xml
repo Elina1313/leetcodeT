@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3a14bd-856c-4d6c-95a8-1385f1492b64" name="Changes" comment="feat: two numbers v_medium" />
+    <list default="true" id="7e3a14bd-856c-4d6c-95a8-1385f1492b64" name="Changes" comment="feat: Longest Substring Without Repeating Characters">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/addTwoNumbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/addTwoNumbers/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/longestSubstringWithoutRepeatingCharacters/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/longestSubstringWithoutRepeatingCharacters/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twoSums/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/twoSums/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twoSums/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/twoSums/Solution1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +91,7 @@
       <command value="mvn clean package" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestSubstringWithoutRepeatingCharacters">
+  <component name="RunManager" selected="Application.findMedianSortedArrays">
     <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="longestSubstringWithoutRepeatingCharacters.LongestSubstringWithoutRepeatingCharacters" />
       <module name="leetcode" />
@@ -124,6 +131,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="findMedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findMedianSortedArrays.findMedianSortedArrays" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="findMedianSortedArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeetcodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.leetcode.LeetcodeApplication" />
@@ -133,6 +153,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.findMedianSortedArrays" />
         <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
         <item itemvalue="Application.addTwoNumbers" />
         <item itemvalue="Application.TwoSums" />
@@ -148,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690712488488</updated>
       <workItem from="1690712489639" duration="703000" />
-      <workItem from="1690713547921" duration="5467000" />
+      <workItem from="1690713547921" duration="7189000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1690712773346</created>
@@ -185,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690719191054</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: Longest Substring Without Repeating Characters">
+      <created>1690719530283</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690719530283</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +234,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="feat: two sums" />
     <MESSAGE value="feat: two numbers v_medium" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: two numbers v_medium" />
+    <MESSAGE value="feat: Longest Substring Without Repeating Characters" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Longest Substring Without Repeating Characters" />
   </component>
 </project>
